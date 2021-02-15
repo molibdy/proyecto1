@@ -5,3 +5,5 @@
 var rama1= 17;
 var rama2= 17;
 var rama3= 17;
+
+let x = rama1 + rama2 + rama3
