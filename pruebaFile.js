@@ -2,4 +2,4 @@
 
 //Modificación del archivo de prueba
 
-//modificación a ser ignorada
+var original= 17;
